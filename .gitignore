@@ -1,0 +1,43 @@
+# Test Logs and Reports
+test-logs/*.log
+test-reports/*.html
+test-reports/*.json
+test-reports/*.xml
+
+# Environment files
+.env.local
+.env.production
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# IDE/Editor files
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# Backup files
+*.bak
+*.backup
+
+# Log files
+*.log
+
+# OS generated files
+desktop.ini
+
+# Test output files
+test_output_*.txt
+test_results_*.json
