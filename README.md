@@ -1,5 +1,20 @@
 # LAB-Automated-Test
 
+[![CI/CD Pipeline](https://github.com/reddomlab-Bazam/LAB-Automated-Test/actions/workflows/ci.yml/badge.svg)](https://github.com/reddomlab-Bazam/LAB-Automated-Test/actions/workflows/ci.yml)
+[![GitHub release](https://img.shields.io/github/release/reddomlab-Bazam/LAB-Automated-Test.svg)](https://github.com/reddomlab-Bazam/LAB-Automated-Test/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Shell](https://img.shields.io/badge/Shell-Bash-green.svg)](https://www.gnu.org/software/bash/)
+[![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/reddomlab-Bazam/LAB-Automated-Test)
+
+> 🧪 **Comprehensive testing suite for InfamousLab infrastructure**  
+> Automated testing for Wazuh SIEM + Cloudflare Zero Trust + AWS Infrastructure
+
+## 📊 Repository Links
+- **🏠 Main Repository:** [reddomlab-Bazam/LAB-Automated-Test](https://github.com/reddomlab-Bazam/LAB-Automated-Test)
+- **📖 Documentation:** [Wiki](https://github.com/reddomlab-Bazam/LAB-Automated-Test/wiki)
+- **🐛 Issues:** [Bug Reports & Feature Requests](https://github.com/reddomlab-Bazam/LAB-Automated-Test/issues)
+- **🔄 Actions:** [CI/CD Pipeline](https://github.com/reddomlab-Bazam/LAB-Automated-Test/actions)
+
 This directory contains all automated testing scripts for the InfamousLab infrastructure, including Wazuh SIEM, Cloudflare Zero Trust, and AWS resources.
 
 ## 🚀 Quick Start
